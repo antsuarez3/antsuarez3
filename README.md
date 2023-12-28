@@ -32,8 +32,6 @@ Welcome! I'm Anthony Suarez, a budding web developer eager to explore the art an
 
 <a href="http://www.github.com/antsuarez3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antsuarez3&stroke=a855f7&background=ffffff&ring=facc15&fire=facc15&currStreakNum=a855f7&currStreakLabel=facc15&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="http://www.github.com/antsuarez3"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=antsuarez3&bg_color=ffffff&color=a855f7&line=000000&point=a855f7&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/antsuarez3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antsuarez3&langs_count=10&title_color=facc15&text_color=a855f7&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
