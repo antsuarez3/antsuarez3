@@ -1,12 +1,13 @@
 ### Welcome to Anthony Suarez's Profile! 
 
+---
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/10itemsorless)
+
 ### Embarking on a coding journey, one line of code at a time. 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anthony Suarez, an enthusiastic beginner developer diving headfirst into the world of coding. I'm on a mission to learn and grow, exploring various languages and technologies to build exciting projects and solve intriguing problems.Ï
 
----
-
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/10itemsorless)
 
 ---
 
